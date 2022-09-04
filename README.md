@@ -133,7 +133,7 @@ Refactoring faclitating in making the code cleaner and more organized. A few adv
 The key advantage of the refactored code is in significant reduction of time in running the overall analysis. For example, for the year 2017, it took around 548 seconds to run the code while it took only 3 seconds to run the analysis for 2018. The original versions run time was much higher than the 1st one (2017) when ran for the first time. 
 
 ![2017 analysis](https://github.com/Rsaifgit/Stock-Analysis-using-Excel-VBA/blob/main/vba_challenge_2017.png)
-![2018 analysis](
+![2018 analysis](https://github.com/Rsaifgit/Stock-Analysis-using-Excel-VBA/blob/main/vba_challenge_2018.png)
 
 
 
